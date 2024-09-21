@@ -8,6 +8,7 @@ public class Cliente {
         System.out.println("Pagar o lanche");
     }
 
+    @SuppressWarnings("unused")
     private void consultarSaldo(){
         System.out.println("Consultar o saldo da conta");
 
