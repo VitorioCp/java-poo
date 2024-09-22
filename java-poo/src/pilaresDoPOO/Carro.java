@@ -1,6 +1,10 @@
 package pilaresDoPOO;
 
-public class Carro {
+//Polimofismo
+public class Carro extends Veciulo{
+
+  
+
     public void ligar(){
         //Encapsulamento
         confereAgua();
